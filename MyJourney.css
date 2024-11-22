@@ -1,0 +1,29 @@
+fieldset{
+	background-color:rgb(171,159,141);
+ text-color:rgb(178,190,181);
+ border-inline-color: rgb(171,159,14);
+ font-family:Copperplate;
+}
+div{
+	background-color:rgb(220,220,220);
+}
+p{
+	text-align:justify;
+}
+h2{
+	font-family:calibri;
+}
+ marquee{
+ 	color:rgb(171,159,141);
+ }
+body{
+	background-color:rgb(225,220,210);
+}
+figure{
+	background-color:rgb(220,220,220) ;
+}
+.bottom-line{
+height:2px;
+background-color:rgb(141,139,121);
+color:brown;
+}
